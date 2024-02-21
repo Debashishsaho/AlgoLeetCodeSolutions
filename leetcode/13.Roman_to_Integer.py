@@ -1,4 +1,5 @@
-# Roman to Integer 
+# Roman to Integer
+# Approach : Hashing
 # Time Complexity : O(n) where n is length of the string , Space Complexity : O(1) it takes constant space 
 
 class Solution:
